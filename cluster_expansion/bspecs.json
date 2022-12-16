@@ -1,0 +1,10 @@
+	{
+	    "basis_functions" : {
+	      "site_basis_functions" : "occupation"
+	    },
+	    "orbit_branch_specs" : {
+	      "2" : {"max_length" : 10.0000},
+	      "3" : {"max_length" : 6.00000},
+	      "4" : {"max_length" : 5.00000}
+	    }
+   }
